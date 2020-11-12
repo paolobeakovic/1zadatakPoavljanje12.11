@@ -1,0 +1,7 @@
+C:\Users\Učenik07\source\repos\beakovicPaolo1\beakovicPaolo1\bin\Debug\beakovicPaolo1.exe.config
+C:\Users\Učenik07\source\repos\beakovicPaolo1\beakovicPaolo1\bin\Debug\beakovicPaolo1.exe
+C:\Users\Učenik07\source\repos\beakovicPaolo1\beakovicPaolo1\bin\Debug\beakovicPaolo1.pdb
+C:\Users\Učenik07\source\repos\beakovicPaolo1\beakovicPaolo1\obj\Debug\beakovicPaolo1.csprojAssemblyReference.cache
+C:\Users\Učenik07\source\repos\beakovicPaolo1\beakovicPaolo1\obj\Debug\beakovicPaolo1.csproj.CoreCompileInputs.cache
+C:\Users\Učenik07\source\repos\beakovicPaolo1\beakovicPaolo1\obj\Debug\beakovicPaolo1.exe
+C:\Users\Učenik07\source\repos\beakovicPaolo1\beakovicPaolo1\obj\Debug\beakovicPaolo1.pdb
